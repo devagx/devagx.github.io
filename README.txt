@@ -1,1 +1,3 @@
-ReturnToTech Github Portfolio project (HTML/CSS)
+# HTML/CSS Portfolio
+
+ReturnToTech Github Portfolio project developed using HTML5 and CSS.
